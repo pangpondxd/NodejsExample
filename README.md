@@ -10,3 +10,10 @@ Run function example
 room(500)
 result = s 
 (s is size of a room)
+
+# Admin
+Run function example
+0 = admin, default = visitors
+admin(0)
+result = Hello admin
+default = Hello visitors
